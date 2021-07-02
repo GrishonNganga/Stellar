@@ -1,0 +1,3 @@
+# Peer to Peer Lending Platform Powered by Stellar.
+
+## For African by Africans... 

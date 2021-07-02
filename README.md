@@ -2,4 +2,4 @@
 
 ## For Africa by Africans... 
 
-![](logo.png)
+![](cover.png)
